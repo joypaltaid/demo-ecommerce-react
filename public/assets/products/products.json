@@ -1,0 +1,312 @@
+[
+    {
+      "id": 1,
+      "name": "Canon EOS 80D",
+      "description": "Professional-grade DSLR camera",
+      "price": 999,
+      "category": "Electronics",
+      "brand": "Canon",
+      "image": "camera1.jpg",
+      "stock": 5,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment":  "24.2MP APS-C CMOS sensor"
+        },
+        {
+          "name":"Name2",
+          "comment": "45-point autofocus system"
+        },
+        {
+          "name":"Name3",
+          "comment": "Full HD 1080p video recording"
+        },
+        {
+          "name":"Name4",
+          "comment":"Weather-sealed body for durability"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Canon EOS 80D",
+      "description": "Professional-grade DSLR camera",
+      "price": 1999,
+      "category": "Electronics",
+      "brand": "Canon",
+      "image": "camera2.jpg",
+      "stock": 5,
+     "reviews": [
+        {
+          "name": "Name1",
+          "comment":  "24.2MP APS-C CMOS sensor"
+        },
+        {
+          "name":"Name2",
+          "comment": "45-point autofocus system"
+        },
+        {
+          "name":"Name3",
+          "comment": "Full HD 1080p video recording"
+        },
+        {
+          "name":"Name4",
+          "comment":"Weather-sealed body for durability"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 13",
+      "description": "Latest flagship smartphone from Apple",
+      "price": 999,
+      "category": "Electronics",
+      "brand": "Apple",
+      "image": "Iphone.jpg",
+      "stock": 5,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment": "6.1-inch Super Retina HD display"
+        },
+        {
+          "name":"Name2",
+          "comment": "Dual-camera setup with 12MP main camera"
+        },
+        {
+          "name":"Name3",
+          "comment": "A15 Bionic chip with 64-bit architecture"
+        },
+        {
+          "name":"Name4",
+          "comment": "Water-resistant with IP68 rating"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dell XPS 13",
+      "description": "High-performance laptop for professionals",
+      "price": 1299,
+      "category": "Electronics",
+      "brand": "Dell",
+      "image": "laptop1.jpg",
+      "stock": 5,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment":  "13.4-inch 4K touch display"
+        },
+        {
+          "name":"Name2",
+          "comment": "10th Gen Intel Core i7 processor"
+        },
+        {
+          "name":"Name3",
+          "comment": "16GB RAM and 512GB SSD storage"
+        },
+        {
+          "name":"Name4",
+          "comment": "Long-lasting battery life up to 12 hours"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Dell XPS 13",
+      "description": "High-performance laptop for professionals",
+      "price": 1499,
+      "category": "Electronics",
+      "brand": "Dell",
+      "image": "laptop2.jpg",
+      "stock": 5,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment":  "13.4-inch 4K touch display"
+        },
+        {
+          "name":"Name2",
+          "comment": "10th Gen Intel Core i7 processor"
+        },
+        {
+          "name":"Name3",
+          "comment": "16GB RAM and 512GB SSD storage"
+        },
+        {
+          "name":"Name4",
+          "comment": "Long-lasting battery life up to 12 hours"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S22",
+      "description": "High-end Android smartphone from Samsung",
+      "price": 799,
+      "category": "Electronics",
+      "brand": "Samsung",
+      "image": "mobile1.jpg",
+      "stock": 5,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment":  "6.2-inch Dynamic AMOLED display"
+        },
+        {
+          "name":"Name2",
+          "comment": "Triple-camera setup with 50MP main camera"
+        },
+        {
+          "name":"Name3",
+          "comment": "Exynos 2100 chipset with 5G connectivity"
+
+        },
+        {
+          "name":"Name4",
+          "comment":  "Long-lasting 4500mAh battery"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy S22",
+      "description": "High-end Android smartphone from Samsung",
+      "price": 999,
+      "category": "Electronics",
+      "brand": "Samsung",
+      "image": "mobile2.jpg",
+      "stock": 5,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment":  "6.2-inch Dynamic AMOLED display"
+        },
+        {
+          "name":"Name2",
+          "comment": "Triple-camera setup with 50MP main camera"
+        },
+        {
+          "name":"Name3",
+          "comment": "Exynos 2100 chipset with 5G connectivity"
+
+        },
+        {
+          "name":"Name4",
+          "comment":  "Long-lasting 4500mAh battery"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Levi's Classic Fit Shirt",
+      "description": "Timeless and comfortable shirt from Levi's",
+      "price": 49,
+      "category": "Clothing",
+      "brand": "Levi's",
+      "image": "shirt1.jpg",
+      "stock": 5,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment": "Classic fit with relaxed silhouette"
+        },
+        {
+          "name":"Name2",
+          "comment": "Soft and breathable cotton fabric"
+        },
+        {
+          "name":"Name3",
+          "comment": "Button-down collar and adjustable cuffs"
+        },
+        {
+          "name":"Name4",
+          "comment": "Available in multiple colors"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Levi's Classic Fit Shirt",
+      "description": "Timeless and comfortable shirt from Levi's",
+      "price": 495,
+      "category": "Clothing",
+      "brand": "Levi's",
+      "image": "shirt2.jpg",
+      "stock": 5,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment": "Classic fit with relaxed silhouette"
+        },
+        {
+          "name":"Name2",
+          "comment": "Soft and breathable cotton fabric"
+        },
+        {
+          "name":"Name3",
+          "comment": "Button-down collar and adjustable cuffs"
+        },
+        {
+          "name":"Name4",
+          "comment": "Available in multiple colors"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fossil Gen 5 Watch",
+      "description": "Stylish and feature-packed smartwatch from Fossil",
+      "price": 295,
+      "category": "Accessories",
+      "brand": "Fossil",
+      "image": "watch1.jpg",
+      "stock": 0,
+      "reviews": [
+        {
+          "name": "Name1",
+          "comment": "44mm stainless steel case"
+        },
+        {
+          "name":"Name2",
+          "comment": "Touchscreen display with heart rate monitoring"
+        },
+        {
+          "name":"Name3",
+          "comment": "Compatible with Android and iOS devices"
+        },
+        {
+          "name":"Name4",
+          "comment":  "Water-resistant up to 30 meters"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Fossil Gen 5 Watch",
+      "description": "Stylish and feature-packed smartwatch from Fossil",
+      "price": 2999,
+      "category": "Accessories",
+      "brand": "Fossil",
+      "image": "watch2.jpg",
+      "stock": 5,
+     "reviews": [
+        {
+          "name": "Name1",
+          "comment": "44mm stainless steel case"
+        },
+        {
+          "name":"Name2",
+          "comment": "Touchscreen display with heart rate monitoring"
+        },
+        {
+          "name":"Name3",
+          "comment": "Compatible with Android and iOS devices"
+        },
+        {
+          "name":"Name4",
+          "comment":  "Water-resistant up to 30 meters"
+        }
+      ]
+    }
+  ]
